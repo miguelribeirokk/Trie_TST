@@ -6,4 +6,4 @@ gcc -o trie trie.c
 
 .\trie
 
-PS: https://www.geeksforgeeks.org/ternary-search-tree/ inspiração para a montagem do código.
+ https://www.geeksforgeeks.org/ternary-search-tree/ inspiração para a montagem do código.
