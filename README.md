@@ -1,6 +1,6 @@
 # Trie_TST
 Implementação de uma árvore TRIE TST usando apontadores e flags pré definidos AEDS II 2022
-# Para comílar e executar:
+# Para compilar e executar:
 
 gcc -o trie trie.c
 
